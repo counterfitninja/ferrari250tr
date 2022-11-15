@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://counterfitninja.github.io/ferrari250tr/sitemap.xml
